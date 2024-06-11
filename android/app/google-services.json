@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794516644007",
+    "project_id": "igirmranak-e9689",
+    "storage_bucket": "igirmranak-e9689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794516644007:android:926e2c92c1c1415286fb82",
+        "android_client_info": {
+          "package_name": "com.mycompany.igirmranak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSCxOkEewqfDHfcpLhxavUlqdHX0m7po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
